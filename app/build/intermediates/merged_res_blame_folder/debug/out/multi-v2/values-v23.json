@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Side Job\\Project\\Play Store\\Lose Weight Codecanyon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\L I A N\\.gradle\\caches\\transforms-2\\files-2.1\\cdce946ff5cc72c2f1b1099b9003a90d\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,31,45,46,47,48,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "700,835,970,1045,1132,2016,2912,3031,3158,3263,3487,3602,3709,3822",
+                        "endLines": "13,14,15,16,30,44,45,46,47,51,52,53,54,58",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "830,965,1040,1127,2011,2907,3026,3153,3258,3482,3597,3704,3817,4047"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\L I A N\\.gradle\\caches\\transforms-2\\files-2.1\\2f1d71854e82609e73a7c0d63177c362\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "59",
+                        "startColumns": "4",
+                        "startOffsets": "4052",
+                        "endLines": "61",
+                        "endColumns": "12",
+                        "endOffsets": "4197"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\L I A N\\.gradle\\caches\\transforms-2\\files-2.1\\cf6052aecd163a2a7bee345d2f1ed320\\work-runtime-2.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\L I A N\\.gradle\\caches\\transforms-2\\files-2.1\\edfdb45e1ff85bfd10a5da59ac8b66ae\\jetified-materialize-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "51",
+                        "endOffsets": "231"
+                    }
+                },
+                {
+                    "source": "D:\\Side Job\\Project\\Play Store\\Lose Weight Codecanyon\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "3,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "54,519",
+                        "endLines": "10,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "513,753"
+                    },
+                    "to": {
+                        "startLines": "5,62",
+                        "startColumns": "4,4",
+                        "startOffsets": "236,4202",
+                        "endLines": "12,66",
+                        "endColumns": "12,12",
+                        "endOffsets": "695,4436"
+                    }
+                }
+            ]
+        }
+    ]
+}

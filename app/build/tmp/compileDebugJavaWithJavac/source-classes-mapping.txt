@@ -1,0 +1,426 @@
+com/loseweight/databinding/ActivityRestBindingImpl.java
+ com.loseweight.databinding.ActivityRestBindingImpl
+com/loseweight/databinding/TopbarBindingImpl.java
+ com.loseweight.databinding.TopbarBindingImpl
+com/common/compactcalender/Event.java
+ com.common.compactcalender.Event
+com/loseweight/utils/CountDownTimerWithPause.java
+ com.loseweight.utils.CountDownTimerWithPause
+ com.loseweight.utils.CountDownTimerWithPause$1
+com/loseweight/databinding/ActivityRecentBindingImpl.java
+ com.loseweight.databinding.ActivityRecentBindingImpl
+com/loseweight/databinding/ActivityBmiBinding.java
+ com.loseweight.databinding.ActivityBmiBinding
+com/common/compactcalender/AnimationHandler.java
+ com.common.compactcalender.AnimationHandler
+ com.common.compactcalender.AnimationHandler$1
+ com.common.compactcalender.AnimationHandler$2
+ com.common.compactcalender.AnimationHandler$3
+ com.common.compactcalender.AnimationHandler$4
+ com.common.compactcalender.AnimationHandler$5
+ com.common.compactcalender.AnimationHandler$6
+ com.common.compactcalender.AnimationHandler$7
+com/loseweight/databinding/ActivityChooseYourPlanBindingImpl.java
+ com.loseweight.databinding.ActivityChooseYourPlanBindingImpl
+com/loseweight/databinding/ActivityExerciseListBindingImpl.java
+ com.loseweight.databinding.ActivityExerciseListBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/loseweight/databinding/ActivityReminderBindingImpl.java
+ com.loseweight.databinding.ActivityReminderBindingImpl
+com/loseweight/databinding/DialogGenderDobBinding.java
+ com.loseweight.databinding.DialogGenderDobBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/common/compactcalender/CollapsingAnimation.java
+ com.common.compactcalender.CollapsingAnimation
+com/loseweight/databinding/ActivityHistoryBinding.java
+ com.loseweight.databinding.ActivityHistoryBinding
+com/loseweight/databinding/ItemDaysChildBindingImpl.java
+ com.loseweight.databinding.ItemDaysChildBindingImpl
+com/loseweight/databinding/TopbarBinding.java
+ com.loseweight.databinding.TopbarBinding
+com/loseweight/databinding/ActivityEditPlanBinding.java
+ com.loseweight.databinding.ActivityEditPlanBinding
+com/loseweight/databinding/ActivityTurnOnWaterBinding.java
+ com.loseweight.databinding.ActivityTurnOnWaterBinding
+com/loseweight/databinding/BottomSheetRestartConfBinding.java
+ com.loseweight.databinding.BottomSheetRestartConfBinding
+com/common/AutoFitImageView.java
+ com.common.AutoFitImageView
+com/loseweight/databinding/ItemReplaceWorkoutListBinding.java
+ com.loseweight.databinding.ItemReplaceWorkoutListBinding
+com/loseweight/inapp/SkuDetails.java
+ com.loseweight.inapp.SkuDetails
+com/loseweight/databinding/ActivityMyProfileBinding.java
+ com.loseweight.databinding.ActivityMyProfileBinding
+com/loseweight/inapp/Purchase.java
+ com.loseweight.inapp.Purchase
+com/loseweight/databinding/DialogWeightBinding.java
+ com.loseweight.databinding.DialogWeightBinding
+com/loseweight/databinding/ActivityHomeDetailBinding.java
+ com.loseweight.databinding.ActivityHomeDetailBinding
+com/common/compactcalender/EventsContainer.java
+ com.common.compactcalender.EventsContainer
+com/loseweight/databinding/ItemReplaceWorkoutListBindingImpl.java
+ com.loseweight.databinding.ItemReplaceWorkoutListBindingImpl
+com/loseweight/databinding/FragmentAnimationBinding.java
+ com.loseweight.databinding.FragmentAnimationBinding
+com/loseweight/databinding/ActivityReminderBinding.java
+ com.loseweight.databinding.ActivityReminderBinding
+com/common/view/numberpicker/NumberPicker.java
+ com.common.view.numberpicker.NumberPicker
+ com.common.view.numberpicker.NumberPicker$1
+ com.common.view.numberpicker.NumberPicker$2
+ com.common.view.numberpicker.NumberPicker$Align
+ com.common.view.numberpicker.NumberPicker$ChangeCurrentByOneFromLongPressCommand
+ com.common.view.numberpicker.NumberPicker$DividerType
+ com.common.view.numberpicker.NumberPicker$Formatter
+ com.common.view.numberpicker.NumberPicker$InputTextFilter
+ com.common.view.numberpicker.NumberPicker$OnScrollListener
+ com.common.view.numberpicker.NumberPicker$OnScrollListener$ScrollState
+ com.common.view.numberpicker.NumberPicker$OnValueChangeListener
+ com.common.view.numberpicker.NumberPicker$Order
+ com.common.view.numberpicker.NumberPicker$Orientation
+ com.common.view.numberpicker.NumberPicker$SetSelectionCommand
+ com.common.view.numberpicker.NumberPicker$TwoDigitFormatter
+com/loseweight/databinding/ActivityHomeBindingImpl.java
+ com.loseweight.databinding.ActivityHomeBindingImpl
+com/loseweight/inapp/IabException.java
+ com.loseweight.inapp.IabException
+com/loseweight/databinding/ActivityRestBinding.java
+ com.loseweight.databinding.ActivityRestBinding
+com/common/view/stickyheadersrecyclerview/StickyRecyclerHeadersAdapter.java
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersAdapter
+com/common/view/stickyheadersrecyclerview/StickyRecyclerHeadersTouchListener.java
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersTouchListener
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersTouchListener$1
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersTouchListener$OnHeaderClickListener
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersTouchListener$SingleTapDetector
+com/loseweight/databinding/ActivityChooseWeightBindingImpl.java
+ com.loseweight.databinding.ActivityChooseWeightBindingImpl
+com/loseweight/databinding/ActivityFastWorkoutDetailBindingImpl.java
+ com.loseweight.databinding.ActivityFastWorkoutDetailBindingImpl
+com/loseweight/databinding/ItemEditPlanBindingImpl.java
+ com.loseweight.databinding.ItemEditPlanBindingImpl
+com/loseweight/databinding/DialogGenderDobBindingImpl.java
+ com.loseweight.databinding.DialogGenderDobBindingImpl
+com/common/ScanningView.java
+ com.common.ScanningView
+ com.common.ScanningView$1
+com/loseweight/databinding/FragmentPlanBinding.java
+ com.loseweight.databinding.FragmentPlanBinding
+com/loseweight/databinding/DialogHeightBindingImpl.java
+ com.loseweight.databinding.DialogHeightBindingImpl
+com/loseweight/databinding/DialogHeightBinding.java
+ com.loseweight.databinding.DialogHeightBinding
+com/loseweight/databinding/ActivityAccessAllFeatureBinding.java
+ com.loseweight.databinding.ActivityAccessAllFeatureBinding
+com/loseweight/databinding/ItemWorkoutStatusIndicatorBindingImpl.java
+ com.loseweight.databinding.ItemWorkoutStatusIndicatorBindingImpl
+com/common/view/stickyheadersrecyclerview/util/LinearLayoutOrientationProvider.java
+ com.common.view.stickyheadersrecyclerview.util.LinearLayoutOrientationProvider
+com/common/view/numberpicker/Scroller.java
+ com.common.view.numberpicker.Scroller
+ com.common.view.numberpicker.Scroller$ViscousFluidInterpolator
+com/loseweight/databinding/ActivityRecentBinding.java
+ com.loseweight.databinding.ActivityRecentBinding
+com/loseweight/databinding/ActivityYourPlanBinding.java
+ com.loseweight.databinding.ActivityYourPlanBinding
+com/loseweight/databinding/ActivityAboutBinding.java
+ com.loseweight.databinding.ActivityAboutBinding
+com/loseweight/databinding/DialogDobBindingImpl.java
+ com.loseweight.databinding.DialogDobBindingImpl
+com/loseweight/databinding/ItemBodyFocusBindingImpl.java
+ com.loseweight.databinding.ItemBodyFocusBindingImpl
+com/loseweight/databinding/ActivityExerciseListBinding.java
+ com.loseweight.databinding.ActivityExerciseListBinding
+com/loseweight/databinding/ActivityEditPlanBindingImpl.java
+ com.loseweight.databinding.ActivityEditPlanBindingImpl
+com/loseweight/databinding/ActivityRestDayBinding.java
+ com.loseweight.databinding.ActivityRestDayBinding
+com/loseweight/databinding/ActivityHomeDetailBindingImpl.java
+ com.loseweight.databinding.ActivityHomeDetailBindingImpl
+com/loseweight/databinding/ActivityCommonQuestionBinding.java
+ com.loseweight.databinding.ActivityCommonQuestionBinding
+com/loseweight/databinding/FragmentReportBinding.java
+ com.loseweight.databinding.FragmentReportBinding
+com/loseweight/databinding/ItemBodyFocusBinding.java
+ com.loseweight.databinding.ItemBodyFocusBinding
+com/loseweight/databinding/ActivityChooseHeightBindingImpl.java
+ com.loseweight.databinding.ActivityChooseHeightBindingImpl
+com/loseweight/databinding/ActivityTurnOnWaterBindingImpl.java
+ com.loseweight.databinding.ActivityTurnOnWaterBindingImpl
+com/loseweight/databinding/ActivityFastWorkOutBinding.java
+ com.loseweight.databinding.ActivityFastWorkOutBinding
+com/loseweight/databinding/BottomSheetReplaceExBinding.java
+ com.loseweight.databinding.BottomSheetReplaceExBinding
+com/loseweight/databinding/ActivityVoiceOptionsBinding.java
+ com.loseweight.databinding.ActivityVoiceOptionsBinding
+com/loseweight/databinding/ItemCapturedImagesBinding.java
+ com.loseweight.databinding.ItemCapturedImagesBinding
+com/loseweight/databinding/ItemChooseYourPlanBinding.java
+ com.loseweight.databinding.ItemChooseYourPlanBinding
+com/loseweight/inapp/IabBroadcastReceiver.java
+ com.loseweight.inapp.IabBroadcastReceiver
+ com.loseweight.inapp.IabBroadcastReceiver$IabBroadcastListener
+com/loseweight/databinding/DialogHeightWeightBinding.java
+ com.loseweight.databinding.DialogHeightWeightBinding
+com/loseweight/databinding/ActivityFastWorkoutDetailBinding.java
+ com.loseweight.databinding.ActivityFastWorkoutDetailBinding
+com/common/AutoFitTextureView.java
+ com.common.AutoFitTextureView
+com/loseweight/databinding/FragmentAnimationBindingImpl.java
+ com.loseweight.databinding.FragmentAnimationBindingImpl
+com/loseweight/databinding/DialogSoundOptionBinding.java
+ com.loseweight.databinding.DialogSoundOptionBinding
+com/loseweight/databinding/ItemHomeDetailBinding.java
+ com.loseweight.databinding.ItemHomeDetailBinding
+com/loseweight/databinding/ItemHistoryParentBinding.java
+ com.loseweight.databinding.ItemHistoryParentBinding
+com/loseweight/databinding/ActivityWellDoneBinding.java
+ com.loseweight.databinding.ActivityWellDoneBinding
+com/common/compactcalender/CompactCalendarController.java
+ com.common.compactcalender.CompactCalendarController
+ com.common.compactcalender.CompactCalendarController$Direction
+com/loseweight/databinding/ActivityVoiceOptionsBindingImpl.java
+ com.loseweight.databinding.ActivityVoiceOptionsBindingImpl
+com/loseweight/databinding/FragmentMeBindingImpl.java
+ com.loseweight.databinding.FragmentMeBindingImpl
+com/loseweight/databinding/ActivityDaysPlanDetailBinding.java
+ com.loseweight.databinding.ActivityDaysPlanDetailBinding
+com/common/view/stickyheadersrecyclerview/caching/HeaderProvider.java
+ com.common.view.stickyheadersrecyclerview.caching.HeaderProvider
+com/loseweight/databinding/ActivityPerformExerciesBinding.java
+ com.loseweight.databinding.ActivityPerformExerciesBinding
+com/loseweight/BR.java
+ com.loseweight.BR
+com/common/view/stickyheadersrecyclerview/caching/HeaderViewCache.java
+ com.common.view.stickyheadersrecyclerview.caching.HeaderViewCache
+com/loseweight/databinding/ItemHistoryParentBindingImpl.java
+ com.loseweight.databinding.ItemHistoryParentBindingImpl
+com/loseweight/databinding/ItemWhatsYourGoalBindingImpl.java
+ com.loseweight.databinding.ItemWhatsYourGoalBindingImpl
+com/loseweight/databinding/ItemCapturedImagesBindingImpl.java
+ com.loseweight.databinding.ItemCapturedImagesBindingImpl
+com/loseweight/databinding/ActivityWellDoneBindingImpl.java
+ com.loseweight.databinding.ActivityWellDoneBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/loseweight/databinding/ActivityPerformExerciesBindingImpl.java
+ com.loseweight.databinding.ActivityPerformExerciesBindingImpl
+com/loseweight/databinding/ActivityChooseHeightBinding.java
+ com.loseweight.databinding.ActivityChooseHeightBinding
+com/loseweight/databinding/BottomSheetExDetailBindingImpl.java
+ com.loseweight.databinding.BottomSheetExDetailBindingImpl
+com/loseweight/databinding/ItemCommonQuestionParentBindingImpl.java
+ com.loseweight.databinding.ItemCommonQuestionParentBindingImpl
+com/loseweight/databinding/PopupLogoutBinding.java
+ com.loseweight.databinding.PopupLogoutBinding
+com/loseweight/databinding/DialogWeightBindingImpl.java
+ com.loseweight.databinding.DialogWeightBindingImpl
+com/loseweight/databinding/ActivityHomeBinding.java
+ com.loseweight.databinding.ActivityHomeBinding
+com/loseweight/utils/URLs.java
+ com.loseweight.utils.URLs
+com/loseweight/databinding/ItemHistoryChildBinding.java
+ com.loseweight.databinding.ItemHistoryChildBinding
+com/loseweight/databinding/ActivityYourPlanBindingImpl.java
+ com.loseweight.databinding.ActivityYourPlanBindingImpl
+com/loseweight/databinding/ItemCommonQuestionParentBinding.java
+ com.loseweight.databinding.ItemCommonQuestionParentBinding
+com/loseweight/databinding/ItemChooseYourPlanBindingImpl.java
+ com.loseweight.databinding.ItemChooseYourPlanBindingImpl
+com/loseweight/databinding/ActivityHistoryBindingImpl.java
+ com.loseweight.databinding.ActivityHistoryBindingImpl
+com/common/compactcalender/AnimatorListener.java
+ com.common.compactcalender.AnimatorListener
+com/common/compactcalender/Events.java
+ com.common.compactcalender.Events
+com/loseweight/databinding/DialogHeightWeightBindingImpl.java
+ com.loseweight.databinding.DialogHeightWeightBindingImpl
+com/common/compactcalender/CompactCalendarView.java
+ com.common.compactcalender.CompactCalendarView
+ com.common.compactcalender.CompactCalendarView$1
+ com.common.compactcalender.CompactCalendarView$CompactCalendarAnimationListener
+ com.common.compactcalender.CompactCalendarView$CompactCalendarViewListener
+com/loseweight/inapp/IabResult.java
+ com.loseweight.inapp.IabResult
+com/loseweight/databinding/ActivityChooseWeightBinding.java
+ com.loseweight.databinding.ActivityChooseWeightBinding
+com/loseweight/databinding/ItemCommonQuestionTitleBinding.java
+ com.loseweight.databinding.ItemCommonQuestionTitleBinding
+com/loseweight/databinding/BottomSheetExDetailBinding.java
+ com.loseweight.databinding.BottomSheetExDetailBinding
+com/loseweight/databinding/FragmentVideoBinding.java
+ com.loseweight.databinding.FragmentVideoBinding
+com/loseweight/databinding/ActivityMyProfileBindingImpl.java
+ com.loseweight.databinding.ActivityMyProfileBindingImpl
+com/loseweight/databinding/DialogTestVoiceFailBindingImpl.java
+ com.loseweight.databinding.DialogTestVoiceFailBindingImpl
+com/common/view/stickyheadersrecyclerview/calculation/DimensionCalculator.java
+ com.common.view.stickyheadersrecyclerview.calculation.DimensionCalculator
+com/loseweight/databinding/FragmentMeBinding.java
+ com.loseweight.databinding.FragmentMeBinding
+com/loseweight/databinding/ItemWhatsYourGoalBinding.java
+ com.loseweight.databinding.ItemWhatsYourGoalBinding
+com/loseweight/databinding/ItemRecentBindingImpl.java
+ com.loseweight.databinding.ItemRecentBindingImpl
+com/loseweight/databinding/DialogQuiteWorkoutBinding.java
+ com.loseweight.databinding.DialogQuiteWorkoutBinding
+com/common/view/stickyheadersrecyclerview/StickyRecyclerHeadersDecoration.java
+ com.common.view.stickyheadersrecyclerview.StickyRecyclerHeadersDecoration
+com/loseweight/databinding/ItemDaysParentBinding.java
+ com.loseweight.databinding.ItemDaysParentBinding
+com/loseweight/databinding/ItemRecentBinding.java
+ com.loseweight.databinding.ItemRecentBinding
+com/loseweight/databinding/ItemRandomWorkoutBinding.java
+ com.loseweight.databinding.ItemRandomWorkoutBinding
+com/loseweight/DataBindingTriggerClass.java
+ com.loseweight.DataBindingTriggerClass
+com/loseweight/databinding/FragmentPlanBindingImpl.java
+ com.loseweight.databinding.FragmentPlanBindingImpl
+com/loseweight/databinding/ItemReminderBindingImpl.java
+ com.loseweight.databinding.ItemReminderBindingImpl
+com/loseweight/databinding/DialogSelectTtsEngineBinding.java
+ com.loseweight.databinding.DialogSelectTtsEngineBinding
+com/loseweight/databinding/DialogQuiteWorkoutBindingImpl.java
+ com.loseweight.databinding.DialogQuiteWorkoutBindingImpl
+com/loseweight/databinding/ActivityRestDayBindingImpl.java
+ com.loseweight.databinding.ActivityRestDayBindingImpl
+com/android/vending/billing/IInAppBillingService.java
+ com.android.vending.billing.IInAppBillingService
+ com.android.vending.billing.IInAppBillingService$Default
+ com.android.vending.billing.IInAppBillingService$Stub
+ com.android.vending.billing.IInAppBillingService$Stub$Proxy
+com/loseweight/databinding/ActivityChooseTargetWeightBindingImpl.java
+ com.loseweight.databinding.ActivityChooseTargetWeightBindingImpl
+com/loseweight/inapp/IabHelper.java
+ com.loseweight.inapp.IabHelper
+ com.loseweight.inapp.IabHelper$1
+ com.loseweight.inapp.IabHelper$2
+ com.loseweight.inapp.IabHelper$2$1
+ com.loseweight.inapp.IabHelper$3
+ com.loseweight.inapp.IabHelper$3$1
+ com.loseweight.inapp.IabHelper$3$2
+ com.loseweight.inapp.IabHelper$IabAsyncInProgressException
+ com.loseweight.inapp.IabHelper$OnConsumeFinishedListener
+ com.loseweight.inapp.IabHelper$OnConsumeMultiFinishedListener
+ com.loseweight.inapp.IabHelper$OnIabPurchaseFinishedListener
+ com.loseweight.inapp.IabHelper$OnIabSetupFinishedListener
+ com.loseweight.inapp.IabHelper$QueryInventoryFinishedListener
+com/loseweight/databinding/FragmentReportBindingImpl.java
+ com.loseweight.databinding.FragmentReportBindingImpl
+com/common/compactcalender/AnimationListener.java
+ com.common.compactcalender.AnimationListener
+com/loseweight/databinding/ItemEditPlanBinding.java
+ com.loseweight.databinding.ItemEditPlanBinding
+com/loseweight/databinding/ActivityWhatsYourGoalBinding.java
+ com.loseweight.databinding.ActivityWhatsYourGoalBinding
+com/loseweight/databinding/PopupLogoutBindingImpl.java
+ com.loseweight.databinding.PopupLogoutBindingImpl
+com/loseweight/DataBinderMapperImpl.java
+ com.loseweight.DataBinderMapperImpl
+ com.loseweight.DataBinderMapperImpl$InnerBrLookup
+ com.loseweight.DataBinderMapperImpl$InnerLayoutIdLookup
+com/loseweight/databinding/BottomSheetReplaceExBindingImpl.java
+ com.loseweight.databinding.BottomSheetReplaceExBindingImpl
+com/loseweight/databinding/ActivityAccessAllFeatureBindingImpl.java
+ com.loseweight.databinding.ActivityAccessAllFeatureBindingImpl
+com/loseweight/databinding/ActivityBmiBindingImpl.java
+ com.loseweight.databinding.ActivityBmiBindingImpl
+com/loseweight/databinding/ItemHomeDetailBindingImpl.java
+ com.loseweight.databinding.ItemHomeDetailBindingImpl
+com/loseweight/databinding/ActivityCompletedBinding.java
+ com.loseweight.databinding.ActivityCompletedBinding
+com/loseweight/databinding/ItemReportWeekDayBinding.java
+ com.loseweight.databinding.ItemReportWeekDayBinding
+com/loseweight/databinding/DialogSelectTtsEngineBindingImpl.java
+ com.loseweight.databinding.DialogSelectTtsEngineBindingImpl
+com/loseweight/databinding/DialogWeightWithDateBinding.java
+ com.loseweight.databinding.DialogWeightWithDateBinding
+com/loseweight/databinding/ItemReminderBinding.java
+ com.loseweight.databinding.ItemReminderBinding
+com/loseweight/databinding/ItemWorkoutStatusIndicatorBinding.java
+ com.loseweight.databinding.ItemWorkoutStatusIndicatorBinding
+com/common/view/stickyheadersrecyclerview/ItemVisibilityAdapter.java
+ com.common.view.stickyheadersrecyclerview.ItemVisibilityAdapter
+com/loseweight/databinding/ActivityFastWorkOutBindingImpl.java
+ com.loseweight.databinding.ActivityFastWorkOutBindingImpl
+com/loseweight/databinding/BottomBarBindingImpl.java
+ com.loseweight.databinding.BottomBarBindingImpl
+com/loseweight/databinding/BottomBarBinding.java
+ com.loseweight.databinding.BottomBarBinding
+com/loseweight/databinding/ItemWorkoutListBinding.java
+ com.loseweight.databinding.ItemWorkoutListBinding
+com/loseweight/databinding/ActivityChooseYourPlanBinding.java
+ com.loseweight.databinding.ActivityChooseYourPlanBinding
+com/loseweight/databinding/ItemRandomWorkoutBindingImpl.java
+ com.loseweight.databinding.ItemRandomWorkoutBindingImpl
+com/loseweight/databinding/ItemHistoryChildBindingImpl.java
+ com.loseweight.databinding.ItemHistoryChildBindingImpl
+com/loseweight/inapp/Inventory.java
+ com.loseweight.inapp.Inventory
+com/loseweight/databinding/ItemDaysChildBinding.java
+ com.loseweight.databinding.ItemDaysChildBinding
+com/loseweight/databinding/ActivityAboutBindingImpl.java
+ com.loseweight.databinding.ActivityAboutBindingImpl
+com/loseweight/databinding/ActivityWaterTrackerBinding.java
+ com.loseweight.databinding.ActivityWaterTrackerBinding
+com/loseweight/databinding/ActivityWaterTrackerBindingImpl.java
+ com.loseweight.databinding.ActivityWaterTrackerBindingImpl
+com/common/view/stickyheadersrecyclerview/HeaderPositionCalculator.java
+ com.common.view.stickyheadersrecyclerview.HeaderPositionCalculator
+com/loseweight/BuildConfig.java
+ com.loseweight.BuildConfig
+com/loseweight/databinding/ItemReportWeekDayBindingImpl.java
+ com.loseweight.databinding.ItemReportWeekDayBindingImpl
+com/loseweight/databinding/ItemCommonQuestionChildBinding.java
+ com.loseweight.databinding.ItemCommonQuestionChildBinding
+com/loseweight/databinding/FragmentVideoBindingImpl.java
+ com.loseweight.databinding.FragmentVideoBindingImpl
+com/loseweight/databinding/ItemCommonQuestionTitleBindingImpl.java
+ com.loseweight.databinding.ItemCommonQuestionTitleBindingImpl
+com/loseweight/generated/callback/OnClickListener.java
+ com.loseweight.generated.callback.OnClickListener
+ com.loseweight.generated.callback.OnClickListener$Listener
+com/loseweight/databinding/ItemDaysParentBindingImpl.java
+ com.loseweight.databinding.ItemDaysParentBindingImpl
+com/loseweight/databinding/ActivityWhatsYourGoalBindingImpl.java
+ com.loseweight.databinding.ActivityWhatsYourGoalBindingImpl
+com/loseweight/inapp/Security.java
+ com.loseweight.inapp.Security
+com/loseweight/databinding/ActivityCompletedBindingImpl.java
+ com.loseweight.databinding.ActivityCompletedBindingImpl
+com/loseweight/databinding/DialogUnloackTrainingBindingImpl.java
+ com.loseweight.databinding.DialogUnloackTrainingBindingImpl
+com/loseweight/databinding/ItemWorkoutListBindingImpl.java
+ com.loseweight.databinding.ItemWorkoutListBindingImpl
+com/loseweight/databinding/ActivityCommonQuestionBindingImpl.java
+ com.loseweight.databinding.ActivityCommonQuestionBindingImpl
+com/loseweight/databinding/ActivityDaysPlanDetailBindingImpl.java
+ com.loseweight.databinding.ActivityDaysPlanDetailBindingImpl
+com/common/view/stickyheadersrecyclerview/util/OrientationProvider.java
+ com.common.view.stickyheadersrecyclerview.util.OrientationProvider
+com/loseweight/databinding/BottomSheetRestartConfBindingImpl.java
+ com.loseweight.databinding.BottomSheetRestartConfBindingImpl
+com/loseweight/databinding/DialogWeightWithDateBindingImpl.java
+ com.loseweight.databinding.DialogWeightWithDateBindingImpl
+com/loseweight/databinding/ItemCommonQuestionChildBindingImpl.java
+ com.loseweight.databinding.ItemCommonQuestionChildBindingImpl
+com/common/view/stickyheadersrecyclerview/rendering/HeaderRenderer.java
+ com.common.view.stickyheadersrecyclerview.rendering.HeaderRenderer
+com/loseweight/databinding/DialogSoundOptionBindingImpl.java
+ com.loseweight.databinding.DialogSoundOptionBindingImpl
+com/loseweight/databinding/DialogUnloackTrainingBinding.java
+ com.loseweight.databinding.DialogUnloackTrainingBinding
+com/loseweight/databinding/ActivityChooseTargetWeightBinding.java
+ com.loseweight.databinding.ActivityChooseTargetWeightBinding
+com/loseweight/databinding/DialogDobBinding.java
+ com.loseweight.databinding.DialogDobBinding
+com/loseweight/databinding/DialogTestVoiceFailBinding.java
+ com.loseweight.databinding.DialogTestVoiceFailBinding
+com/common/compactcalender/EventComparator.java
+ com.common.compactcalender.EventComparator
+com/common/compactcalender/WeekUtils.java
+ com.common.compactcalender.WeekUtils

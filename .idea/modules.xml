@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lose_Weight_Codecanyon.iml" filepath="$PROJECT_DIR$/.idea/modules/Lose_Weight_Codecanyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MPChartLib/Lose_Weight_Codecanyon.MPChartLib.iml" filepath="$PROJECT_DIR$/.idea/modules/MPChartLib/Lose_Weight_Codecanyon.MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lose_Weight_Codecanyon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lose_Weight_Codecanyon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontal-picker/Lose_Weight_Codecanyon.horizontal-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontal-picker/Lose_Weight_Codecanyon.horizontal-picker.iml" />
+    </modules>
+  </component>
+</project>

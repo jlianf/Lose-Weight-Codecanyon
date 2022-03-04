@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scwang.wave:MultiWaveHeader:1.0.0-andx@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/res" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f824d9bd7439828d8ec70ea9919fdcb/jetified-MultiWaveHeader-1.0.0-andx/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scwang.wave/MultiWaveHeader/1.0.0-andx/156d1c4217ef781fd05999eff1ccb22972ead62c/MultiWaveHeader-1.0.0-andx-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scwang.wave/MultiWaveHeader/1.0.0-andx/a196f5138e9d49c7429991e57ee41d6b3437230/MultiWaveHeader-1.0.0-andx-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

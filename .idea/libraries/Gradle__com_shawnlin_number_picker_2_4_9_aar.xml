@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shawnlin:number-picker:2.4.9@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c92fc3a9504ba322408fa22934ed080/jetified-number-picker-2.4.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shawnlin/number-picker/2.4.9/2290c0ab7b48cc78132f975f6d7581ce0392a290/number-picker-2.4.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shawnlin/number-picker/2.4.9/362c07c8eae30dbbc451dff66a8758fb90ef72ab/number-picker-2.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

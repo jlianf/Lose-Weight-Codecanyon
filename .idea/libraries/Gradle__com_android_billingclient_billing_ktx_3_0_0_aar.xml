@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.billingclient:billing-ktx:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../BuinessInvoice_Android/InvoiceBilling/gradle/wrapper/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa3bed33ceded673b54f740e000843a6/jetified-billing-ktx-3.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing-ktx/3.0.0/f0cb2515ec21ca3886ceeff59d571db3c647d611/billing-ktx-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.loseweight.forwomen1",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 3,
+      "versionName": "1.4",
+      "outputFile": "Lose-Weight-For-Women-debug-1.4.apk"
+    }
+  ]
+}
